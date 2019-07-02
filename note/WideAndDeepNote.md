@@ -1,6 +1,6 @@
-# 
+# Wide & Deep Learning for Recommender Systems 摘录
 
-
+梁聪 liangxcong@gmail.com 2019.7.2
 
 ## INTRODUCTION
 
