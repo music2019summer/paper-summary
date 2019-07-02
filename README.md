@@ -3,3 +3,4 @@
 1. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
 2. Wide & Deep Learning for Recommender Systems
 3. Factorization Machines
+4. Amazon.com Recommendations: Item-to-Item Collaborative Filtering
